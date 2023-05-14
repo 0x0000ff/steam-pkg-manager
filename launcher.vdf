@@ -1,0 +1,22 @@
+"0"
+{
+	"appid" ""
+	"AppName" "Super Tux Kart"
+	"Exe" "flatpak run net.supertuxkart.SuperTuxKart"
+	"StartDir" "\"./\""
+	"icon" ""
+	"ShortcutPath" ""
+	"LaunchOptions" ""
+	"IsHidden" "0"
+	"AllowDesktopConfig" "1"
+	"AllowOverlay" "1"
+	"OpenVR" "0"
+	"Devkit" "0"
+	"DevkitGameID" ""
+	"DevkitOverrideAppID" "0"
+	"LastPlayTime" "0"
+	"FlatpakAppID" ""
+	"tags"
+	{
+	}
+}
