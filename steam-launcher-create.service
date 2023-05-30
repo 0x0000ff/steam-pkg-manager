@@ -2,4 +2,4 @@
 Description="Run the script that adds launcher and assosiated files from flatpak data"
 
 [Service]
-Exec=/home/steam/.opt/steam-launcher-create.py
+ExecStart=%h/.opt/steam-launcher-create.py

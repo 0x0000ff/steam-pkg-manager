@@ -12,6 +12,7 @@ Right now, it can run without root permissions. It will only support steam insta
     - Make a service that runs the script when a new app is installled
     - Get the service to startup at boot-time
     - Add support for flatpak
+    - Make a pull request for needed additions for the VDF library to get this to work
 
 ### Possible future developments
 - Add support for other package managers/formats

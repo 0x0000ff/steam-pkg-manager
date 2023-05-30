@@ -2,5 +2,5 @@
 Description="Check the flatpak user data folder, and run the service accompanying this unit"
 
 [Path]
-PathModified=/home/steam/.local/share/flatpak/app
+PathChanged=%h/.local/share/flatpak/app
 Unit=steam-launcher-create.service
